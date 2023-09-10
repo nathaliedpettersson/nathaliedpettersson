@@ -22,7 +22,7 @@
 
 ### My next personal goal is to: 
 
-- Get more knowledge in backend using Node.js to broaden my skills and be able to code even better, smarter and cooler projects!
+- Get more knowledge in backend using MongoDB, Express and Node.js (also called the MERN-stack) to broaden my skills and be able to code even better, smarter and cooler projects!
 
 #### Feel free to check out my repos if you're curious about my previous work :sparkles:
 
