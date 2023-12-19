@@ -1,4 +1,4 @@
-# Hi, and welcome! I'm Nathalie 👩‍💻
+# Hey there! I'm Nathalie 👩‍💻
 
 ### This is what I mostly do but can't wait to get even better at:
 
@@ -10,7 +10,7 @@
 
 --------------------------------------------------------------------------------------------------------------
 
-### I am familiar with this but would love to learn more!
+### I am familiar with this but I would love to learn more!
 
 - Testing, like Cypress and Jest
 - Databases like MySQL, Neo4J
@@ -20,9 +20,9 @@
   
 --------------------------------------------------------------------------------------------------------------
 
-### My next personal goal is to: 
+### Right now I'm working on: 
 
-- Get more knowledge in backend using MongoDB, Express and Node.js (also called the MERN-stack) to broaden my skills and be able to code even better, smarter and cooler projects!
+- Getting more knowledge in backend using MongoDB, Express and Node.js (also called the MERN-stack) to broaden my skills and be able to code even better smarter and cooler projects!
 
 #### Feel free to check out my repos if you're curious about my previous work :sparkles:
 
