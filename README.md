@@ -17,13 +17,9 @@
 - Svelte
 - Designing with Figma and Tailwind CSS
 - Redux
+- C#
   
 --------------------------------------------------------------------------------------------------------------
-
-### Right now I'm working on: 
-
-- Getting more knowledge in backend using MongoDB, Express and Node.js (also called the MERN-stack) to broaden my skills and be able to code even better smarter and cooler projects!
-- Taking a 7.5 credits course in C# to get familiar with a new language and broaden my skills. 
 
 #### Feel free to check out my repos if you're curious about my previous work :sparkles:
 
